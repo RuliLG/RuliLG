@@ -5,8 +5,8 @@ My name is Raúl López and I am (mainly) a full stack web developer from the Ca
 These are some of my side projects:
 
 - [OpenGraphr](https://opengraphr.com/): Open Graph debugging tool and easy API
-- [#myBusiness | Toda una web desde 14.95€ al mes](https://my-business.es/): Tailormade websites from less than 15€ / month. No permanence.
 - [Tailgraph](https://tailgraph.com/): Free Open Graph image generation tool using TailwindCSS
+- [#myBusiness](https://my-business.es/): Tailormade websites from less than 15€ / month. No permanence.
 
 ### 📪 How to reach me
 You can reach out to me on [my website](https://raullg.com/) or at my email [hi@raullg.com](mailto:hi@raullg.com).
