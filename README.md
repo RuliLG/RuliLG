@@ -5,7 +5,7 @@ My name is Raúl López and I am a web artisan from the Canary Islands. I love w
 This is what I do:
 - [Borah](https://borah.digital/): My own software laboratory
 - [Borah Labs US](https://borahlabs.us/): Software agency in USA
-- [Sabor Cookworking]([https://borahlabs.us/](https://saborenlaoficina.es/alquiler-cocina-gran-canaria)): First Cookworking space in the Canary Islands
+- [Sabor Cookworking](https://borahlabs.us/](https://saborenlaoficina.es/alquiler-cocina-gran-canaria): First Cookworking space in the Canary Islands
 - [Croqueta Padre](https://croquetapadre.com/): La mejor croquetería de Canarias, con croquetas clásicas, sin gluten y veganas
 - [RaúlLG](https://raullg.com/): A blog about Laravel and programming
 - [Prompt Token Counter](https://prompttokencounter.com/): A free prompt token counter
